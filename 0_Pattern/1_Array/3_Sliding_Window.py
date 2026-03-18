@@ -11,6 +11,7 @@ def sliding_window(self, s: str) -> int:
 
     counter = {} 
 
+    #inicia o contador
     counter[s[0]] = 1
 
 
